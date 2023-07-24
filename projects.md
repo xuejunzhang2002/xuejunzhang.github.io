@@ -45,12 +45,9 @@ This project focuses on campus data analysis using Federated Learning, a privacy
 
 ### Clustering-based Multipath Number Estimation Method for Cellular Positioning Receivers in Time-Variant Multipath Channels
 
-#### 
-
 <center>
 <img src="/images/resnet-ahp.png">
 </center>
-
 <br>
 
 #### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
