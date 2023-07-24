@@ -6,9 +6,7 @@ title: Projects
 
 # Research Projects
 
-P.S., click the hyperlink title to access the source.<br>
-
-#### [OpenIoT: Industrial Inspection System](https://fzuiot.site/)
+#### [DIGNP: Dynamic Indicator-Goal Network for Prioritization]
 
 <center>
 <img src="/images/openiot-system.png">
