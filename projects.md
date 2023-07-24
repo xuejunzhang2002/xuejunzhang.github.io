@@ -21,9 +21,11 @@ title: Projects
 
 <br>
 
+**This project is based on a self-built model DIGNP, which is a dynamic model based on System Dynamics that prioritizes the UN's Sustainable Development Goals (SDGs) by creating a network of indicators and goals. It utilizes correlation analysis and the Entropy Weight Method to establish priorities and forecasts the future evolution of the SDGs using ARIMA. The model can dynamically adjust its topology and rankings based on changes in indicators or goals, making it adaptable to various scenarios and international crises. **
 
+<br>
 
-#### Federated Learning-Based Campus Data Analysis
+### Federated Learning-Based Campus Data Analysis
 
 <center>
 <img src="/images/MCM-figure3.jpg">
