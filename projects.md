@@ -43,9 +43,9 @@ This project focuses on campus data analysis using Federated Learning, a privacy
 
 ---
 
+### Clustering-based Multipath Number Estimation Method for Cellular Positioning Receivers in Time-Variant Multipath Channels
 
-
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
+#### 
 
 <center>
 <img src="/images/resnet-ahp.png">
@@ -59,9 +59,3 @@ This project focuses on campus data analysis using Federated Learning, a privacy
 <img src="/images/iot-manager.png">
 </center>
 <br>
-
-<br>
-
----
-
-a
