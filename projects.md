@@ -9,7 +9,7 @@ title: Projects
 #### [DIGNP: Dynamic Indicator-Goal Network for Prioritization]
 
 <center>
-<img src="/images/openiot-system.png">
+<img src="/images/ICM.png">
 </center>
 
 <br>
