@@ -6,7 +6,7 @@ title: Projects
 
 # Research Projects
 
-#### [DIGNP: Dynamic Indicator-Goal Network for Prioritization]
+### DIGNP: Dynamic Indicator-Goal Network for Prioritization (ICM-2023)
 
 <center>
 <img src="/images/ICM.png">
@@ -21,7 +21,9 @@ title: Projects
 
 <br>
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
+
+
+#### Federated Learning-Based Campus Data Analysis
 
 <center>
 <img src="/images/MCM-figure3.jpg">
