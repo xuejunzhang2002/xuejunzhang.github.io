@@ -28,8 +28,13 @@ This project is based on a self-built model DIGNP, which is a dynamic model base
 ### Federated Learning-Based Campus Data Analysis
 
 <center>
-<img src="/images/MCM-figure3.jpg">
+<img src="/images/prp.png">
 </center>
+
+<br>
+
+ddd
+
 <br>
 
 #### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
