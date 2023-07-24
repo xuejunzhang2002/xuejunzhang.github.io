@@ -12,6 +12,9 @@ title: Projects
 <img src="/images/ICM.png">
 </center>
 
+<br>
+
+
 <center>
 <img src="/images/ICM-2.png">
 </center>
