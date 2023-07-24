@@ -33,7 +33,7 @@ This project is based on a self-built model DIGNP, which is a dynamic model base
 
 <br>
 
-dddd
+This project focuses on campus data analysis using Federated Learning, a privacy-preserving machine learning technique. It aims to analyze multidimensional campus data and create accurate student profiles, enhancing campus management, and providing personalized guidance to students with data anomalies to promote their physical and mental well-being. The project utilizes Horizontal Federated Learning based on FedProx to correlate cafeteria consumption with BMI, ensuring privacy protection with measures like differential privacy. Additionally, Federated Transfer Learning is employed to predict graduate students' academic performance by utilizing undergraduate student data, which contains more features. 
 
 <br>
 
