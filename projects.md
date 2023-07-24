@@ -12,6 +12,10 @@ title: Projects
 <img src="/images/ICM.png">
 </center>
 
+<center>
+<img src="/images/ICM-2.png">
+</center>
+
 <br>
 
 #### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
