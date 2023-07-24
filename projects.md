@@ -25,6 +25,10 @@ This project is based on a self-built model DIGNP, which is a dynamic model base
 
 <br>
 
+---
+
+s
+
 ### Federated Learning-Based Campus Data Analysis
 
 <center>
@@ -36,6 +40,10 @@ This project is based on a self-built model DIGNP, which is a dynamic model base
 This project focuses on campus data analysis using Federated Learning, a privacy-preserving machine learning technique. It aims to analyze multidimensional campus data and create accurate student profiles, enhancing campus management, and providing personalized guidance to students with data anomalies to promote their physical and mental well-being. The project utilizes Horizontal Federated Learning based on FedProx to correlate cafeteria consumption with BMI, ensuring privacy protection with measures like differential privacy. Additionally, Federated Transfer Learning is employed to predict graduate students' academic performance by utilizing undergraduate student data, which contains more features. 
 
 <br>
+
+---
+
+
 
 #### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
 
@@ -56,18 +64,4 @@ This project focuses on campus data analysis using Federated Learning, a privacy
 
 ---
 
-# Open-source Projects
-
-<br>
-
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
-
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
-
-#### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
-
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
-
-#### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
-
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**
+a
