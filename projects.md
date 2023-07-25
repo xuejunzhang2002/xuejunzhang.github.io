@@ -50,9 +50,4 @@ This project focuses on campus data analysis using Federated Learning, a privacy
 </center>
 <br>
 
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
-
-<center>
-<img src="/images/iot-manager.png">
-</center>
-<br>
+This research proposes a clustering-based method for estimating the number of multipath components in time-variant multipath channels, specifically for cellular-based positioning receivers. The method leverages the kernel-power-density clustering algorithm to improve accuracy and reliability. 
