@@ -45,8 +45,14 @@ This project focuses on campus data analysis using Federated Learning, a privacy
 ### Clustering-based Multipath Number Estimation Method for Cellular Positioning Receivers in Time-Variant Multipath Channels
 
 <center>
-<img src="/images/resnet-ahp.png">
+<img src="/images/Block diagram of clustering-based multipath number estimator method..png">
 </center>
+
 <br>
 
+<center>
+<img src="/images/total comparison.jpg">
+</center>
+
 This research proposes a clustering-based method for estimating the number of multipath components in time-variant multipath channels, specifically for cellular-based positioning receivers. The method leverages the kernel-power-density clustering algorithm to improve accuracy and reliability. 
+
