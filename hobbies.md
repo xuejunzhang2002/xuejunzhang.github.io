@@ -25,8 +25,9 @@ Playing sports has given me a sense of purpose, taught me valuable lessons, and 
 <div>
 <img src="/images/teaching.jpg">
 </div>
+<br>
 
-<br>Working as a teaching assistant and advisor has been a transformative experience for me. During my own freshman year, I encountered moments of uncertainty and setbacks. Fortunately, I received invaluable support and wisdom from senior students, teachers, and mentors who helped me navigate those challenges.  Now, sharing my own experiences and expertise to benefit fellow students has become a fulfilling mission. I firmly believe that by empowering others with the right guidance, we can create a more positive and nurturing environment for everyone. 
+Working as a teaching assistant and advisor has been a transformative experience for me. During my own freshman year, I encountered moments of uncertainty and setbacks. Fortunately, I received invaluable support and wisdom from senior students, teachers, and mentors who helped me navigate those challenges.  Now, sharing my own experiences and expertise to benefit fellow students has become a fulfilling mission. I firmly believe that by empowering others with the right guidance, we can create a more positive and nurturing environment for everyone. 
 
 <br>
 
@@ -43,6 +44,8 @@ I am a passionate *tifosi* and a dedicated supporter of *Alfa Romeo*, particular
 <br>
 
 ## Other Hobbies
+
+
 
 I also enjoy reading books, drawing, playing piano, etc. I especially enjoy books written by Albert Camus, such as *The Outsider*, *The Plague*, and *The Myth of Sisyphus*.
 
