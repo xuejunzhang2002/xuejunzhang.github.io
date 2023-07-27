@@ -28,26 +28,24 @@ Playing sports has given me a sense of purpose, taught me valuable lessons, and 
 
 <br>Working as a teaching assistant and advisor has been a transformative experience for me. During my own freshman year, I encountered moments of uncertainty and setbacks. Fortunately, I received invaluable support and wisdom from senior students, teachers, and mentors who helped me navigate those challenges.  Now, sharing my own experiences and expertise to benefit fellow students has become a fulfilling mission. I firmly believe that by empowering others with the right guidance, we can create a more positive and nurturing environment for everyone. 
 
-## Past Hobbies
+<br>
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
+## Racing
+
+<div>
+<img src="/images/ferrari.PNG">
+</div>
+
+<br>
+
+I am a passionate *tifosi* and a dedicated supporter of *Alfa Romeo*, particularly cheering for Zhou Guanyu, who holds the honor of being the first Chinese driver to participate in Formula 1 races. My heartfelt wish is to witness the racing action live on the spot someday in the future.
+
+<br>
 
 ## My Cat
 
 This is my love. Her name is Qbo (Q宝).
 
-<div>
-<img src="/images/cat.JPG">
-</div>
+
+
 <br>
-
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-
