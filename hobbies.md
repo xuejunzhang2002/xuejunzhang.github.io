@@ -42,10 +42,8 @@ I am a passionate *tifosi* and a dedicated supporter of *Alfa Romeo*, particular
 
 <br>
 
-## My Cat
+## Other Hobbies
 
-This is my love. Her name is Qbo (Q宝).
-
-
+I also enjoy reading books, drawing, playing piano, etc. I especially enjoy books written by Albert Camus, such as *The Outsider*, *The Plague*, and *The Myth of Sisyphus*.
 
 <br>
