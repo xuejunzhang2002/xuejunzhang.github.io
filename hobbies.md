@@ -9,8 +9,8 @@ title: Hobbies
 ## Sports
 
 <div class="second">
-<img src="/images/tennis.JPG">
-<img src="/images/tennis2.JPG">
+<img src="/images/tennis.jpg">
+<img src="/images/tennis2.jpg">
 </div>
 <br>
 
@@ -23,7 +23,7 @@ Playing sports has given me a sense of purpose, taught me valuable lessons, and 
 ## Workshop & Teaching
 
 <div>
-<img src="/images/teaching.JPG">
+<img src="/images/teaching.jpg">
 </div>
 
 <br>Working as a teaching assistant and advisor has been a transformative experience for me. During my own freshman year, I encountered moments of uncertainty and setbacks. Fortunately, I received invaluable support and wisdom from senior students, teachers, and mentors who helped me navigate those challenges.  Now, sharing my own experiences and expertise to benefit fellow students has become a fulfilling mission. I firmly believe that by empowering others with the right guidance, we can create a more positive and nurturing environment for everyone. 
@@ -33,7 +33,7 @@ Playing sports has given me a sense of purpose, taught me valuable lessons, and 
 ## Racing
 
 <div>
-<img src="/images/ferrari.PNG">
+<img src="/images/ferrari.png">
 </div>
 
 <br>
