@@ -16,9 +16,11 @@ title: Hobbies
 
 Sports are an integral part of my life, and I have a profound passion for various sports. Over the years, I've participated in several tennis tournaments, and I've been fortunate to win numerous awards. 
 
-But it's not just tennis that keeps me active and happy. Since I was a kid, I've been involved in a variety of sports like table tennis, badminton, volleyball and swimming. These sports have kept me physically fit and mentally refreshed. They provide the perfect balance to my busy life and help me stay focused on my studies. Moreover, joining the volleyball team in high school and the tennis association in university has taught me the value of collaboration and teamwork.  Playing sports has given me a sense of purpose, taught me valuable lessons, and provided me with a healthy outlet to relieve stress. I can confidently say that sports have made me a better person, both on and off the court.
+But it's not just tennis that keeps me active and happy. Since I was a kid, I've been involved in a variety of sports like table tennis, badminton, volleyball and swimming. These sports have kept me physically fit and mentally refreshed. They provide the perfect balance to my busy life and help me stay focused on my studies. Moreover, joining the volleyball team in high school and the tennis association in university has taught me the value of collaboration and teamwork.  
 
-## Swimming & Surfing
+Playing sports has given me a sense of purpose, taught me valuable lessons, and provided me with a healthy outlet to relieve stress. I can confidently say that sports have made me a better person, both on and off the court.
+
+## Workshop & Teaching
 
 <div class="third">
 <img src="/images/swimming2.JPG">
