@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xuejun Zhang**.
 
-I am a sophomore majoring in **Electrical and Computer Engineering** at Shanghai Jiao Tong University and **Data Science** at University of Michigan. 
+I am a junior majoring in **Electrical and Computer Engineering** at Shanghai Jiao Tong University and **Data Science** at University of Michigan. 
 
 ## Academic Background
 
