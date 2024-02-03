@@ -12,7 +12,7 @@ I am a junior majoring in **Electrical and Computer Engineering** at Shanghai Ji
 
 ## Academic Background
 
-**I am interested in Natural Language Processing and Multimodal Learning, and am now joining SLED lab. Feel free to contact me if you have similar research interests.** 
+**I am interested in Natural Language Processing and Multimodal Learning, and is now a member of SLED lab. Feel free to contact me if you have similar research interests.** 
 
 - **Sep 2018 - June 2021:** Shanghai High School
 - **Sep 2021 - August 2025:** Shanghai Jiao Tong University
