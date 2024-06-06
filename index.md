@@ -28,7 +28,7 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 
 - Federated Learning-Based Campus Data Analysis
 - Clustering-based Multipath Number Estimation Method for Cellular Positioning Receivers in Time-Variant Multipath Channels
-- Multi-Object Hallucination
+- Multi-Object Hallucination in Vision Language Models
 
 <br>
 
