@@ -28,6 +28,7 @@ I am a junior majoring in **Electrical and Computer Engineering** at Shanghai Ji
 
 - Federated Learning-Based Campus Data Analysis
 - Clustering-based Multipath Number Estimation Method for Cellular Positioning Receivers in Time-Variant Multipath Channels
+- Multi-Object Hallucination
 
 <br>
 
