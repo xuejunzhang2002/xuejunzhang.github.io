@@ -8,7 +8,7 @@ layout: page
 
 Here is **Xuejun Zhang**.
 
-I am a junior majoring in **Electrical and Computer Engineering** at Shanghai Jiao Tong University and **Data Science** at University of Michigan. I am an undergraduate research assistant in SLED Research Lab advised by professor Joyce Chai.
+I am a rising senior majoring in **Electrical and Computer Engineering** at Shanghai Jiao Tong University and **Data Science** at University of Michigan. I am an undergraduate research assistant in SLED Research Lab advised by professor Joyce Chai.
 
 ## Academic Background
 
