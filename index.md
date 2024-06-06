@@ -18,7 +18,7 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 - **Sep 2021 - August 2025:** Shanghai Jiao Tong University
 - **Sep 2023 - May 2025:** University of Michigan
 - **Nov 2023 - Now:** Undegraduate research assistant in SLED
-- Expect to apply for PhD in the US.
+- Expect to apply for PhD in the 2025 fall.
 
 <br>
 
