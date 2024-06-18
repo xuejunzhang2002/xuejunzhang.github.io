@@ -23,7 +23,10 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 <br>
 
 ---
-
+## Recent news:
+- **June 2024:** One paper accepted by 3rd Workshop on Advances in Language and Vision Research. See you in ACL2024!
+- **One new work will be on arxiv soon!**
+  
 ## Previous Researches
 
 - Federated Learning-Based Campus Data Analysis
