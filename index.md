@@ -53,5 +53,6 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 
 - Teaching assistant for Academic Writing
 - Advisor of UMJI Advising Center
+- Reviewer of ACL 2024 Workshop SpLU-RoboNLP
 
 <br>
