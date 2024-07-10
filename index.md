@@ -20,7 +20,9 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 - **Nov 2023 - Now:** Undergraduate research assistant in SLED
 - **Seeking a PhD position in 2025 fall!**
 <br>
+
 ---
+
 ## Recent news:
 - **June 2024:** One paper accepted by ALVR@ACL 2024!
 - **Our new work "Multi-Object Hallucination in Vision-Language Models" is now on arxiv!**
