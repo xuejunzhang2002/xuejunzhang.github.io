@@ -41,7 +41,7 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 
 ## Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AVLR 2024</div><img src='images/moh.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/moh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Object Hallucination in Vision-Language Models](https://multi-object-hallucination.github.io)
