@@ -50,6 +50,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\**, Sihan XU, Shengyi Qian, Jianing 
 - **November 2022：**First Place in Tennis Team Event at the 49th Shanghai Jiao Tong University Sports Meet
 - **May 2023：**Runner-up in Tennis Team Event at the 2023 Shanghai Jiao Tong University General Cup
 <br>
+
 ---
 
 ## Positions
