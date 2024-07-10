@@ -25,7 +25,7 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 
 ## Recent news:
 - **June 2024:** One paper accepted by ALVR@ACL 2024!
-- **Our new work "Multi-Object Hallucination in Vision-Language Models" is now on arxiv!**
+- - **Our new work ["Multi-Object Hallucination in Vision-Language Models" is now on arxiv!](https://arxiv.org/abs/2407.06192)**
 <br>
 
 ---
@@ -44,7 +44,7 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/moh.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-Object Hallucination in Vision-Language Models](https://multi-object-hallucination.github.io)
+[Multi-Object Hallucination in Vision-Language Models](https://multi-object-hallucination.github.io) <br>
 Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan XU, Shengyi Qian, Jianing Yang, David F. Fouhey, Joyce Chai<br>
 *Denotes Equal Contribution
 <br>
