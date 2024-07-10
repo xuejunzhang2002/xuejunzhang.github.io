@@ -39,7 +39,8 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 <div class='paper-box-text' markdown="1">
 
 [Multi-Object Hallucination in Vision-Language Models](https://multi-object-hallucination.github.io)
-Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\**, Sihan XU, Shengyi Qian, Jianing Yang, David F. Fouhey, Joyce Chai
+
+Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan XU, Shengyi Qian, Jianing Yang, David F. Fouhey, Joyce Chai
 *Denotes Equal Contribution
 
 ## Selected Awards
@@ -60,6 +61,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\**, Sihan XU, Shengyi Qian, Jianing 
 - Reviewer of ACL 2024 Workshop SpLU-RoboNLP
 
 <br>
+
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">🎉Happy to share my first paper &quot;Multi-Object Hallucination in Vision-Language Models&quot; in <a href="https://twitter.com/hashtag/ALVR?src=hash&amp;ref_src=twsrc%5Etfw">#ALVR</a> at <a href="https://twitter.com/hashtag/ACL2024?src=hash&amp;ref_src=twsrc%5Etfw">#ACL2024</a>! Do VLMs hallucinate more in multi-object scenes? Shortcuts? Spurious correlations? What factors contribute to their hallucinations? 👀<br>🔗<a href="https://t.co/5VsTym5BR3">https://t.co/5VsTym5BR3</a> 🧵[1/n] <a href="https://t.co/CXboiIKL0s">pic.twitter.com/CXboiIKL0s</a></p>
 &mdash; Xuejun Zhang (@eva_xuejunzhang) <a href="https://twitter.com/eva_xuejunzhang/status/1810509641849430267?ref_src=twsrc%5Etfw">July 9, 2024</a>
