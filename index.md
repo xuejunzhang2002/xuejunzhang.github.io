@@ -53,11 +53,12 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan XU, Shengyi Qian, Jianing
 
 ## Selected Awards
 
+- **November 2022：**First Place in Tennis Team Event at the 49th Shanghai Jiao Tong University Sports Meet
 - **December  2022：**2021-2022 Academic Year Merit Scholarship at Shanghai Jiao Tong University
 - **May 2023：**Outstanding Winner and AMS Award in Interdisciplinary Contest In Modeling
 - **July 2023：**Future Technology Taihu Scholarship
-- **November 2022：**First Place in Tennis Team Event at the 49th Shanghai Jiao Tong University Sports Meet
 - **May 2023：**Runner-up in Tennis Team Event at the 2023 Shanghai Jiao Tong University General Cup
+- **Fall 2023 & Winter 2024**: **Dean's Honor List** (Every semester at Umich)
 <br>
 
 ---
