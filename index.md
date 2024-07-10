@@ -18,10 +18,8 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 - **Sep 2021 - August 2025:** Shanghai Jiao Tong University
 - **Sep 2023 - May 2025:** University of Michigan
 - **Nov 2023 - Now:** Undergraduate research assistant in SLED
-- Expect to apply for PhD in the 2025 fall.
-
+- **Seeking a PhD position in 2025 fall!**
 <br>
-
 ---
 ## Recent news:
 - **June 2024:** One paper accepted by ALVR@ACL 2024!
@@ -32,8 +30,7 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 - Federated Learning-Based Campus Data Analysis
 - Clustering-based Multipath Number Estimation Method for Cellular Positioning Receivers in Time-Variant Multipath Channels
 - Multi-Object Hallucination in Vision Language Models
-<br>
----
+
 ## Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AVLR 2024</div><img src='images/moh.png' alt="sym" width="100%"></div></div>
@@ -50,9 +47,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\**, Sihan XU, Shengyi Qian, Jianing 
 - **July 2023：**Future Technology Taihu Scholarship
 - **November 2022：**First Place in Tennis Team Event at the 49th Shanghai Jiao Tong University Sports Meet
 - **May 2023：**Runner-up in Tennis Team Event at the 2023 Shanghai Jiao Tong University General Cup
-
 <br>
-
 ---
 
 ## Positions
@@ -62,9 +57,10 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\**, Sihan XU, Shengyi Qian, Jianing 
 - Reviewer of ACL 2024 Workshop SpLU-RoboNLP
 
 <br>
-
 <blockquote class="twitter-tweet">
-<a href="https://x.com/eva_xuejunzhang/status/1810509641849430267?ref_src=twsrc%5Etfw">https://x.com/eva_xuejunzhang/status/1810509641849430267</a>
+<p lang="en" dir="ltr">🎉Happy to share my first paper &quot;Multi-Object Hallucination in Vision-Language Models&quot; in <a href="https://twitter.com/hashtag/ALVR?src=hash&amp;ref_src=twsrc%5Etfw">#ALVR</a> at <a href="https://twitter.com/hashtag/ACL2024?src=hash&amp;ref_src=twsrc%5Etfw">#ACL2024</a>! Do VLMs hallucinate more in multi-object scenes? Shortcuts? Spurious correlations? What factors contribute to their hallucinations? 👀<br>🔗<a href="https://t.co/5VsTym5BR3">https://t.co/5VsTym5BR3</a> 🧵[1/n] <a href="https://t.co/CXboiIKL0s">pic.twitter.com/CXboiIKL0s</a></p>
+&mdash; Xuejun Zhang (@eva_xuejunzhang) <a href="https://twitter.com/eva_xuejunzhang/status/1810509641849430267?ref_src=twsrc%5Etfw">July 9, 2024</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
