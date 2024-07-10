@@ -45,7 +45,7 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 <div class='paper-box-text' markdown="1">
 
 [Multi-Object Hallucination in Vision-Language Models](https://multi-object-hallucination.github.io)
-Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan XU, Shengyi Qian, Jianing Yang, David F. Fouhey, Joyce Chai
+Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan XU, Shengyi Qian, Jianing Yang, David F. Fouhey, Joyce Chai<br>
 *Denotes Equal Contribution
 <br>
 
