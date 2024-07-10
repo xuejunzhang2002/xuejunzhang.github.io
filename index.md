@@ -41,7 +41,7 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 
 [Multi-Object Hallucination in Vision-Language Models](https://multi-object-hallucination.github.io)
 Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\**, Sihan XU, Shengyi Qian, Jianing Yang, David F. Fouhey, Joyce Chai
-
+*Denotes Equal Contribution
 
 ## Selected Awards
 
@@ -62,3 +62,9 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\**, Sihan XU, Shengyi Qian, Jianing 
 - Reviewer of ACL 2024 Workshop SpLU-RoboNLP
 
 <br>
+
+<blockquote class="twitter-tweet">
+<a href="https://x.com/eva_xuejunzhang/status/1810509641849430267?ref_src=twsrc%5Etfw">https://x.com/eva_xuejunzhang/status/1810509641849430267</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
