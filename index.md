@@ -24,18 +24,24 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 
 ---
 ## Recent news:
-- **June 2024:** One paper accepted by 3rd Workshop on Advances in Language and Vision Research. See you in ACL2024!
-- **One new work will be on arxiv soon!**
+- **June 2024:** One paper accepted by ALVR@ACL 2024!
+- **Our new work "Multi-Object Hallucination in Vision-Language Models" is now on arxiv!**
   
 ## Previous Researches
 
 - Federated Learning-Based Campus Data Analysis
 - Clustering-based Multipath Number Estimation Method for Cellular Positioning Receivers in Time-Variant Multipath Channels
 - Multi-Object Hallucination in Vision Language Models
-
 <br>
-
 ---
+## Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AVLR 2024</div><img src='images/moh.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Object Hallucination in Vision-Language Models](https://multi-object-hallucination.github.io)
+Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\**, Sihan XU, Shengyi Qian, Jianing Yang, David F. Fouhey, Joyce Chai
+
 
 ## Selected Awards
 
