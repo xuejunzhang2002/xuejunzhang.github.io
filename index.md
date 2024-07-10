@@ -58,7 +58,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan XU, Shengyi Qian, Jianing
 - **May 2023：**Outstanding Winner and AMS Award in Interdisciplinary Contest In Modeling
 - **July 2023：**Future Technology Taihu Scholarship
 - **May 2023：**Runner-up in Tennis Team Event at the 2023 Shanghai Jiao Tong University General Cup
-- **Fall 2023 & Winter 2024: **Dean's Honor List (Every semester at Umich)
+- **Fall 2023 & Winter 2024：**Dean's Honor List (Every semester at Umich)
 <br>
 
 ---
