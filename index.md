@@ -24,8 +24,8 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 ---
 
 ## Recent news:
-- **June 2024:** **Our new work "Multi-Object Hallucination in Vision-Language Models" is accepted by ALVR@ACL 2024 and is now on arxiv!
-  [Click here to read the paper on arxiv](https://arxiv.org/abs/2407.06192)**
+- **June 2024:** **Our new work "Multi-Object Hallucination in Vision-Language Models" is accepted by ALVR@ACL 2024 and is now on arxiv!** <br>
+  [Click here to read the paper on arxiv](https://arxiv.org/abs/2407.06192)
 <br>
 
 ---
