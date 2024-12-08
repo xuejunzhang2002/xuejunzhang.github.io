@@ -46,7 +46,7 @@ I am a rising senior majoring in **Electrical and Computer Engineering** at Shan
 
 [Multi-Object Hallucination in Vision-Language Models](https://multi-object-hallucination.github.io) <br>
 Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan Xu, Shengyi Qian, Jianing Yang, David F. Fouhey, Joyce Chai<br>
-*First Author
+*alphabetical order, equal contributions
 <br>
 
 ---
@@ -59,6 +59,7 @@ Xuweiyi Chen\*, Ziqiao Ma\*, **Xuejun Zhang\***, Sihan Xu, Shengyi Qian, Jianing
 - **July 2023:** Future Technology Taihu Scholarship
 - **May 2023:** Runner-up in Tennis Team Event at the 2023 Shanghai Jiao Tong University General Cup
 - **Fall 2023 & Winter 2024:** Dean's Honor List (Every semester at Umich)
+- **Oct 2024:** NeurIPS 2024 Scholar Award
 <br>
 
 ---
